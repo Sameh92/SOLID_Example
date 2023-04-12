@@ -1,0 +1,16 @@
+C:\Users\SAMEH\source\repos\SOLID\SOLID.ISP\bin\Debug\net5.0\SOLID.ISP.exe
+C:\Users\SAMEH\source\repos\SOLID\SOLID.ISP\bin\Debug\net5.0\SOLID.ISP.deps.json
+C:\Users\SAMEH\source\repos\SOLID\SOLID.ISP\bin\Debug\net5.0\SOLID.ISP.runtimeconfig.json
+C:\Users\SAMEH\source\repos\SOLID\SOLID.ISP\bin\Debug\net5.0\SOLID.ISP.runtimeconfig.dev.json
+C:\Users\SAMEH\source\repos\SOLID\SOLID.ISP\bin\Debug\net5.0\SOLID.ISP.dll
+C:\Users\SAMEH\source\repos\SOLID\SOLID.ISP\bin\Debug\net5.0\SOLID.ISP.pdb
+C:\Users\SAMEH\source\repos\SOLID\SOLID.ISP\obj\Debug\net5.0\SOLID.ISP.csproj.AssemblyReference.cache
+C:\Users\SAMEH\source\repos\SOLID\SOLID.ISP\obj\Debug\net5.0\SOLID.ISP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SAMEH\source\repos\SOLID\SOLID.ISP\obj\Debug\net5.0\SOLID.ISP.AssemblyInfoInputs.cache
+C:\Users\SAMEH\source\repos\SOLID\SOLID.ISP\obj\Debug\net5.0\SOLID.ISP.AssemblyInfo.cs
+C:\Users\SAMEH\source\repos\SOLID\SOLID.ISP\obj\Debug\net5.0\SOLID.ISP.csproj.CoreCompileInputs.cache
+C:\Users\SAMEH\source\repos\SOLID\SOLID.ISP\obj\Debug\net5.0\SOLID.ISP.dll
+C:\Users\SAMEH\source\repos\SOLID\SOLID.ISP\obj\Debug\net5.0\refint\SOLID.ISP.dll
+C:\Users\SAMEH\source\repos\SOLID\SOLID.ISP\obj\Debug\net5.0\SOLID.ISP.pdb
+C:\Users\SAMEH\source\repos\SOLID\SOLID.ISP\obj\Debug\net5.0\SOLID.ISP.genruntimeconfig.cache
+C:\Users\SAMEH\source\repos\SOLID\SOLID.ISP\obj\Debug\net5.0\ref\SOLID.ISP.dll

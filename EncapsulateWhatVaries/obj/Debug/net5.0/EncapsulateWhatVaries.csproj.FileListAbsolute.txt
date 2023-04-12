@@ -1,0 +1,16 @@
+C:\Users\SAMEH\source\repos\EncapsulateWhatVaries\EncapsulateWhatVaries\bin\Debug\net5.0\EncapsulateWhatVaries.exe
+C:\Users\SAMEH\source\repos\EncapsulateWhatVaries\EncapsulateWhatVaries\bin\Debug\net5.0\EncapsulateWhatVaries.deps.json
+C:\Users\SAMEH\source\repos\EncapsulateWhatVaries\EncapsulateWhatVaries\bin\Debug\net5.0\EncapsulateWhatVaries.runtimeconfig.json
+C:\Users\SAMEH\source\repos\EncapsulateWhatVaries\EncapsulateWhatVaries\bin\Debug\net5.0\EncapsulateWhatVaries.runtimeconfig.dev.json
+C:\Users\SAMEH\source\repos\EncapsulateWhatVaries\EncapsulateWhatVaries\bin\Debug\net5.0\EncapsulateWhatVaries.dll
+C:\Users\SAMEH\source\repos\EncapsulateWhatVaries\EncapsulateWhatVaries\bin\Debug\net5.0\EncapsulateWhatVaries.pdb
+C:\Users\SAMEH\source\repos\EncapsulateWhatVaries\EncapsulateWhatVaries\obj\Debug\net5.0\EncapsulateWhatVaries.csproj.AssemblyReference.cache
+C:\Users\SAMEH\source\repos\EncapsulateWhatVaries\EncapsulateWhatVaries\obj\Debug\net5.0\EncapsulateWhatVaries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SAMEH\source\repos\EncapsulateWhatVaries\EncapsulateWhatVaries\obj\Debug\net5.0\EncapsulateWhatVaries.AssemblyInfoInputs.cache
+C:\Users\SAMEH\source\repos\EncapsulateWhatVaries\EncapsulateWhatVaries\obj\Debug\net5.0\EncapsulateWhatVaries.AssemblyInfo.cs
+C:\Users\SAMEH\source\repos\EncapsulateWhatVaries\EncapsulateWhatVaries\obj\Debug\net5.0\EncapsulateWhatVaries.csproj.CoreCompileInputs.cache
+C:\Users\SAMEH\source\repos\EncapsulateWhatVaries\EncapsulateWhatVaries\obj\Debug\net5.0\EncapsulateWhatVaries.dll
+C:\Users\SAMEH\source\repos\EncapsulateWhatVaries\EncapsulateWhatVaries\obj\Debug\net5.0\refint\EncapsulateWhatVaries.dll
+C:\Users\SAMEH\source\repos\EncapsulateWhatVaries\EncapsulateWhatVaries\obj\Debug\net5.0\EncapsulateWhatVaries.pdb
+C:\Users\SAMEH\source\repos\EncapsulateWhatVaries\EncapsulateWhatVaries\obj\Debug\net5.0\EncapsulateWhatVaries.genruntimeconfig.cache
+C:\Users\SAMEH\source\repos\EncapsulateWhatVaries\EncapsulateWhatVaries\obj\Debug\net5.0\ref\EncapsulateWhatVaries.dll

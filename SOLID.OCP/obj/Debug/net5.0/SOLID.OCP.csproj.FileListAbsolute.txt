@@ -1,0 +1,16 @@
+C:\Users\SAMEH\source\repos\SOLID\SOLID.OCP\bin\Debug\net5.0\SOLID.OCP.exe
+C:\Users\SAMEH\source\repos\SOLID\SOLID.OCP\bin\Debug\net5.0\SOLID.OCP.deps.json
+C:\Users\SAMEH\source\repos\SOLID\SOLID.OCP\bin\Debug\net5.0\SOLID.OCP.runtimeconfig.json
+C:\Users\SAMEH\source\repos\SOLID\SOLID.OCP\bin\Debug\net5.0\SOLID.OCP.runtimeconfig.dev.json
+C:\Users\SAMEH\source\repos\SOLID\SOLID.OCP\bin\Debug\net5.0\SOLID.OCP.dll
+C:\Users\SAMEH\source\repos\SOLID\SOLID.OCP\bin\Debug\net5.0\SOLID.OCP.pdb
+C:\Users\SAMEH\source\repos\SOLID\SOLID.OCP\obj\Debug\net5.0\SOLID.OCP.csproj.AssemblyReference.cache
+C:\Users\SAMEH\source\repos\SOLID\SOLID.OCP\obj\Debug\net5.0\SOLID.OCP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SAMEH\source\repos\SOLID\SOLID.OCP\obj\Debug\net5.0\SOLID.OCP.AssemblyInfoInputs.cache
+C:\Users\SAMEH\source\repos\SOLID\SOLID.OCP\obj\Debug\net5.0\SOLID.OCP.AssemblyInfo.cs
+C:\Users\SAMEH\source\repos\SOLID\SOLID.OCP\obj\Debug\net5.0\SOLID.OCP.csproj.CoreCompileInputs.cache
+C:\Users\SAMEH\source\repos\SOLID\SOLID.OCP\obj\Debug\net5.0\SOLID.OCP.dll
+C:\Users\SAMEH\source\repos\SOLID\SOLID.OCP\obj\Debug\net5.0\refint\SOLID.OCP.dll
+C:\Users\SAMEH\source\repos\SOLID\SOLID.OCP\obj\Debug\net5.0\SOLID.OCP.pdb
+C:\Users\SAMEH\source\repos\SOLID\SOLID.OCP\obj\Debug\net5.0\SOLID.OCP.genruntimeconfig.cache
+C:\Users\SAMEH\source\repos\SOLID\SOLID.OCP\obj\Debug\net5.0\ref\SOLID.OCP.dll

@@ -1,0 +1,16 @@
+C:\Users\SAMEH\source\repos\SOLID\SOLID.LSP\bin\Debug\net5.0\SOLID.LSP.exe
+C:\Users\SAMEH\source\repos\SOLID\SOLID.LSP\bin\Debug\net5.0\SOLID.LSP.deps.json
+C:\Users\SAMEH\source\repos\SOLID\SOLID.LSP\bin\Debug\net5.0\SOLID.LSP.runtimeconfig.json
+C:\Users\SAMEH\source\repos\SOLID\SOLID.LSP\bin\Debug\net5.0\SOLID.LSP.runtimeconfig.dev.json
+C:\Users\SAMEH\source\repos\SOLID\SOLID.LSP\bin\Debug\net5.0\SOLID.LSP.dll
+C:\Users\SAMEH\source\repos\SOLID\SOLID.LSP\bin\Debug\net5.0\SOLID.LSP.pdb
+C:\Users\SAMEH\source\repos\SOLID\SOLID.LSP\obj\Debug\net5.0\SOLID.LSP.csproj.AssemblyReference.cache
+C:\Users\SAMEH\source\repos\SOLID\SOLID.LSP\obj\Debug\net5.0\SOLID.LSP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SAMEH\source\repos\SOLID\SOLID.LSP\obj\Debug\net5.0\SOLID.LSP.AssemblyInfoInputs.cache
+C:\Users\SAMEH\source\repos\SOLID\SOLID.LSP\obj\Debug\net5.0\SOLID.LSP.AssemblyInfo.cs
+C:\Users\SAMEH\source\repos\SOLID\SOLID.LSP\obj\Debug\net5.0\SOLID.LSP.csproj.CoreCompileInputs.cache
+C:\Users\SAMEH\source\repos\SOLID\SOLID.LSP\obj\Debug\net5.0\SOLID.LSP.dll
+C:\Users\SAMEH\source\repos\SOLID\SOLID.LSP\obj\Debug\net5.0\refint\SOLID.LSP.dll
+C:\Users\SAMEH\source\repos\SOLID\SOLID.LSP\obj\Debug\net5.0\SOLID.LSP.pdb
+C:\Users\SAMEH\source\repos\SOLID\SOLID.LSP\obj\Debug\net5.0\SOLID.LSP.genruntimeconfig.cache
+C:\Users\SAMEH\source\repos\SOLID\SOLID.LSP\obj\Debug\net5.0\ref\SOLID.LSP.dll

@@ -1,0 +1,16 @@
+C:\Users\SAMEH\source\repos\SOLID\SOLIDSRP\bin\Debug\net5.0\SOLIDSRP.exe
+C:\Users\SAMEH\source\repos\SOLID\SOLIDSRP\bin\Debug\net5.0\SOLIDSRP.deps.json
+C:\Users\SAMEH\source\repos\SOLID\SOLIDSRP\bin\Debug\net5.0\SOLIDSRP.runtimeconfig.json
+C:\Users\SAMEH\source\repos\SOLID\SOLIDSRP\bin\Debug\net5.0\SOLIDSRP.runtimeconfig.dev.json
+C:\Users\SAMEH\source\repos\SOLID\SOLIDSRP\bin\Debug\net5.0\SOLIDSRP.dll
+C:\Users\SAMEH\source\repos\SOLID\SOLIDSRP\bin\Debug\net5.0\SOLIDSRP.pdb
+C:\Users\SAMEH\source\repos\SOLID\SOLIDSRP\obj\Debug\net5.0\SOLIDSRP.csproj.AssemblyReference.cache
+C:\Users\SAMEH\source\repos\SOLID\SOLIDSRP\obj\Debug\net5.0\SOLIDSRP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SAMEH\source\repos\SOLID\SOLIDSRP\obj\Debug\net5.0\SOLIDSRP.AssemblyInfoInputs.cache
+C:\Users\SAMEH\source\repos\SOLID\SOLIDSRP\obj\Debug\net5.0\SOLIDSRP.AssemblyInfo.cs
+C:\Users\SAMEH\source\repos\SOLID\SOLIDSRP\obj\Debug\net5.0\SOLIDSRP.csproj.CoreCompileInputs.cache
+C:\Users\SAMEH\source\repos\SOLID\SOLIDSRP\obj\Debug\net5.0\SOLIDSRP.dll
+C:\Users\SAMEH\source\repos\SOLID\SOLIDSRP\obj\Debug\net5.0\refint\SOLIDSRP.dll
+C:\Users\SAMEH\source\repos\SOLID\SOLIDSRP\obj\Debug\net5.0\SOLIDSRP.pdb
+C:\Users\SAMEH\source\repos\SOLID\SOLIDSRP\obj\Debug\net5.0\SOLIDSRP.genruntimeconfig.cache
+C:\Users\SAMEH\source\repos\SOLID\SOLIDSRP\obj\Debug\net5.0\ref\SOLIDSRP.dll

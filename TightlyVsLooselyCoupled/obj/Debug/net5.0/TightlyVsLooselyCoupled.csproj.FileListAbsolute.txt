@@ -1,0 +1,16 @@
+C:\Users\SAMEH\source\repos\SOLID\TightlyVsLooselyCoupled\bin\Debug\net5.0\TightlyVsLooselyCoupled.exe
+C:\Users\SAMEH\source\repos\SOLID\TightlyVsLooselyCoupled\bin\Debug\net5.0\TightlyVsLooselyCoupled.deps.json
+C:\Users\SAMEH\source\repos\SOLID\TightlyVsLooselyCoupled\bin\Debug\net5.0\TightlyVsLooselyCoupled.runtimeconfig.json
+C:\Users\SAMEH\source\repos\SOLID\TightlyVsLooselyCoupled\bin\Debug\net5.0\TightlyVsLooselyCoupled.runtimeconfig.dev.json
+C:\Users\SAMEH\source\repos\SOLID\TightlyVsLooselyCoupled\bin\Debug\net5.0\TightlyVsLooselyCoupled.dll
+C:\Users\SAMEH\source\repos\SOLID\TightlyVsLooselyCoupled\bin\Debug\net5.0\TightlyVsLooselyCoupled.pdb
+C:\Users\SAMEH\source\repos\SOLID\TightlyVsLooselyCoupled\obj\Debug\net5.0\TightlyVsLooselyCoupled.csproj.AssemblyReference.cache
+C:\Users\SAMEH\source\repos\SOLID\TightlyVsLooselyCoupled\obj\Debug\net5.0\TightlyVsLooselyCoupled.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SAMEH\source\repos\SOLID\TightlyVsLooselyCoupled\obj\Debug\net5.0\TightlyVsLooselyCoupled.AssemblyInfoInputs.cache
+C:\Users\SAMEH\source\repos\SOLID\TightlyVsLooselyCoupled\obj\Debug\net5.0\TightlyVsLooselyCoupled.AssemblyInfo.cs
+C:\Users\SAMEH\source\repos\SOLID\TightlyVsLooselyCoupled\obj\Debug\net5.0\TightlyVsLooselyCoupled.csproj.CoreCompileInputs.cache
+C:\Users\SAMEH\source\repos\SOLID\TightlyVsLooselyCoupled\obj\Debug\net5.0\TightlyVsLooselyCoupled.dll
+C:\Users\SAMEH\source\repos\SOLID\TightlyVsLooselyCoupled\obj\Debug\net5.0\refint\TightlyVsLooselyCoupled.dll
+C:\Users\SAMEH\source\repos\SOLID\TightlyVsLooselyCoupled\obj\Debug\net5.0\TightlyVsLooselyCoupled.pdb
+C:\Users\SAMEH\source\repos\SOLID\TightlyVsLooselyCoupled\obj\Debug\net5.0\TightlyVsLooselyCoupled.genruntimeconfig.cache
+C:\Users\SAMEH\source\repos\SOLID\TightlyVsLooselyCoupled\obj\Debug\net5.0\ref\TightlyVsLooselyCoupled.dll
